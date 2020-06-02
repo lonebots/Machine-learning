@@ -34,7 +34,7 @@ class LinearRegression(object):
     
   def predict(self,_input):
     global b0,b1
-    y=b0+b1*_input
+    y=b0+b1*_input+5
     return y
     pass
     
