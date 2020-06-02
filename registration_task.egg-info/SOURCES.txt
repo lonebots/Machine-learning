@@ -1,0 +1,8 @@
+README.md
+setup.py
+registration_task.egg-info/PKG-INFO
+registration_task.egg-info/SOURCES.txt
+registration_task.egg-info/dependency_links.txt
+registration_task.egg-info/not-zip-safe
+registration_task.egg-info/requires.txt
+registration_task.egg-info/top_level.txt
