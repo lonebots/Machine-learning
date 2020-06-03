@@ -1,8 +1,8 @@
 import numpy as np
-b0=0.0
-b1=0.0
-class LinearRegression(object):
 
+class LinearRegression(object):
+  b0=0.0
+  b1=0.0
 #function for variance
   def variance(self,values,mean):
     return sum([(x-mean)**2 for x in values])
