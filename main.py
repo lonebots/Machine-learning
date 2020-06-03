@@ -11,7 +11,7 @@ class LinearRegression(object):
     covar=0
     for i in range(len(x)):
       covar+=((x[i]-mean_x)*(y[i]-mean_y))
-      return covar
+    return covar
 
   def fit(self,_input, _output):
     global b1,b0
@@ -24,7 +24,7 @@ class LinearRegression(object):
     
   def predict(self,_input):
     global b0,b1
-    y=b0+b1*_input+5
+    y=b0+b1*_input
     return y
     pass
     
