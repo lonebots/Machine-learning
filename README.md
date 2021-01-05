@@ -1,4 +1,4 @@
-# Machine Llearning(Sci-Kit-Learn)
+# Machine Learning(Sci-Kit-Learn)
 machine learning repository
 I wonder how to make the learning to machine learing a better experience!!!
 <br/>
